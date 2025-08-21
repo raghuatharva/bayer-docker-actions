@@ -2,6 +2,6 @@
 FROM alpine:latest
 
 
-CMD ["echo", "Hello from a simple Docker container!"]
+CMD ["echo", "Hello from HCLtech"]
 
 
