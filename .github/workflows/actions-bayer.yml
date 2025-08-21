@@ -16,7 +16,7 @@ jobs:
         
         with:
           context: .
-          file: ./bayer-action/Dockerfile
+          file: ./docker-action/Dockerfile
           tags: my-image:latest
 
 
