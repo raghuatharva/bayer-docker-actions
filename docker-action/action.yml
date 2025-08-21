@@ -1,0 +1,6 @@
+name: 'Simple Docker Action'
+description: 'Runs a simple command in a Docker container'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
